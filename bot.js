@@ -38,4 +38,4 @@ if (message.content.startsWith(pfix + 'a')) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+peery.login(process.env.BOT_TOKEN);
